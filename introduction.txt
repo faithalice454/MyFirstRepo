@@ -1,0 +1,5 @@
+<t>Brief Introduction About Myself</t>
+
+<p>My name is Alice Wainaina, a passionate and proactive individual with a strong interest in data, community service, and personal growth. I previously led the Community Coterie Club at ALX, where I organized and participated in various volunteer activities such as visiting elderly homes, planting trees, and leading mentorship events. These experiences helped me build strong leadership, teamwork, and organizational skills while making a positive impact in my community.</p>
+
+<p>Currently, I am working as a data analyst at a microfinance company. Over the past few months, I’ve gained valuable hands-on experience analyzing data, generating insights, and supporting decision-making processes within the organization. It has been a fulfilling journey so far, and I’m still open to learning and growing as I explore more opportunities to sharpen my skills and contribute meaningfully to the data and tech space.</p>
