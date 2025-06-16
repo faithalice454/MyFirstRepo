@@ -1,0 +1,17 @@
+<h1>My Personal and Academic Goals for Next Year</h1>
+
+<h2>Personal Goals:</h2>
+<ul>
+  <li>Become highly skilled in Power BI by practicing regularly and completing advanced projects.</li>
+  <li>Get side gigs or project-based jobs that allow me to apply Power BI in real-world scenarios.</li>
+  <li>Secure a remote job that offers growth opportunities and helps me build a strong career in data.</li>
+  <li>Start and grow an event planning business that brings people together through memorable experiences.</li>
+  <li>Stay committed to continuous learning and personal development.</li>
+</ul>
+
+<h2>Academic Goals:</h2>
+<ul>
+  <li>Enroll in a university program within the next year.</li>
+  <li>Major in Data Science or a related analytical field to deepen my expertise.</li>
+  <li>Take additional online courses and certifications to strengthen my academic foundation.</li>
+</ul>
