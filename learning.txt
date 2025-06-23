@@ -1,0 +1,1 @@
+So far in this course, I’ve learned how to navigate directories using the command line, create and delete files and folders, and understand basic Git concepts like repositories and version control. I’m getting more comfortable with working in the terminal environment, which is essential for managing code projects.
